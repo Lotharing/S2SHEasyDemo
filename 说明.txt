@@ -1,0 +1,5 @@
+基于S2SH的简单实现
+DAO Service Struts HIbernate Spring 
+面向接口编程
+实现简单的曾删改查
+登陆注册案例
